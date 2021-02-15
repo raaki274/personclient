@@ -49,24 +49,28 @@
        http://localhost:8060/personclient/
 
 ### Testing inputs
-    Application has three main features, i. Add a person through form filling (First name is mandatory here), ii. Upload a text file will have multiple person records, file         must have totally five fields with comma seperated and can have any number of records and iii. View the person by person ID (which is First name) and view all records in         the Person collection, find below the sample inputs,
+    Application has three main features, i. Add a person through form filling (First name is mandatory here), 
+    ii. Upload a text file will have multiple person records, file must have totally five fields with comma seperated
+    and can have any number of records and iii. View the person by person ID (which is First name) and view all records 
+    in the Person collection. Find below the sample inputs,
     
    #### Sample input for form filling
-   Fist name:        John
-   Last name:        Kelleys
-   Age:              36
-   Favourite colour: White
+        Fist name:        John
+        Last name:        Kelleys
+        Age:              36
+        Favourite colour: White
    
    #### Sample flat file (.txt) record format
-   ##### #first_name,surname,age,nationality,favourite_colour
-   John,Keynes,29,British,red
-   Sarah,Robinson,54,,blue
-   Rky,Balki,35,Globe,White
-   MKaruna,Mvl,96,TN,Yellow
+        #first_name,surname,age,nationality,favourite_colour
+        John,Keynes,29,British,red
+        Sarah,Robinson,54,,blue
+        Rky,Balki,35,Globe,White
+        MKaruna,Mvl,96,TN,Yellow
    
-   Note: The field names hashed out above must be removed when uploading the file, make it as siple .txt file
+        Note: The field names hashed out above must be removed when uploading the file, make it as siple .txt file
    
    #### Find person input
-   First name: John
+        First name: John
 
-### Thanks for your time spent exploring this!!
+
+### Thanks for your time spent exploring this, cheers!!
