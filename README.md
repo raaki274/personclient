@@ -50,8 +50,8 @@
 
 ### Testing inputs
     Application has three main features, i. Add a person through form filling (First name is mandatory here), 
-    ii. Upload a text file will have multiple person records, file must have totally five fields with comma seperated
-    and can have any number of records and iii. View the person by person ID (which is First name) and view all records 
+    ii. Upload a text file will have multiple person records, file must have totally five fields with comma seperated fields 
+    and can have any number of records, and iii. View the person by person ID (which is First name) and view all records 
     in the Person collection. Find below the sample inputs,
     
    #### Sample input for form filling
